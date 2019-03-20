@@ -17,4 +17,3 @@ node {
         sh "ssh ec2-user@IP  python /tmp/01-hello-world/hello.py"
     } 
   }
-}
